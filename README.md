@@ -40,7 +40,8 @@ They are defined using the 'mixin' keyword and mixed into a class using the with
 They are defined using the 'extension' keyword.
 They enhance the readability and functionality of existing classes without altering their structure.
 
-NOTES:
+NOTES
+
 Data encapsulation is the process of keeping a class' implementation details hidden from the user through an object's functions.
 
 Encapsulation primarily focuses on Classes, Objects, and Getters/Setters because they directly deal with bundling and protecting data.
